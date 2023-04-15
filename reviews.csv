@@ -1,0 +1,5 @@
+review_text,sentiment
+"I loved this product, it works really well!",positive
+"This was a terrible purchase, I wouldn't recommend it to anyone.",negative
+"I'm on the fence about this product, it has some pros and cons.",neutral
+"This product exceeded my expectations, I highly recommend it.",positive
