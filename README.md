@@ -1,4 +1,4 @@
-# Predicting House Price Using LInearRegression
+# Sentiment-Analysis-for-Product-Reviews
 This project aims to utilize Natural Language Processing (NLP) techniques, particularly the NLTK library, to analyze the sentiment of product reviews.
 The ability to automatically determine the sentiment of a product review is valuable for businesses as it allows them to quickly identify the overall sentiment towards their products and make informed decisions about how to improve them. Additionally, it can also benefit consumers by providing them with an objective evaluation of a product before they make a purchase.
 
